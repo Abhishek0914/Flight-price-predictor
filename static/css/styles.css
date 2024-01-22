@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("../css/pexels-tanathip-rattanatum-2026324-2\ copy.jpg");
+}
+
+.navbar {
+    background-color:blueviolet
+}
+
+a {
+    color:lightgoldenrodyellow;
+}
+
+a:hover {
+    color:plum;
+  }
+
+  input[type="submit"]:hover {
+    background-color: plum;
+  }
+
+  input[type="submit"] {
+    background-color: blueviolet;
+  }
+
+  .card{
+    background-color: lightgoldenrodyellow;
+  }
